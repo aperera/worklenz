@@ -36,7 +36,7 @@
     "chartjs-to-image": "^1.2.2",
     "html2canvas": "^1.4.1",
     "jquery": "^3.7.0",
-    "jspdf": "^2.5.1",
+    "jspdf": "^3.0.1",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.43",
     "ng-zorro-antd": "^16.1.0",
@@ -44,12 +44,12 @@
     "ngx-doc-viewer": "^15.0.1",
     "ngx-socket-io": "^4.5.1",
     "rxjs": "~7.4.0",
-    "tinymce": "^6.7.3",
+    "tinymce": "^7.2.0",
     "tslib": "^2.6.1",
     "zone.js": "^0.13.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^16.2.0",
+    "@angular-devkit/build-angular": "^19.2.9",
     "@angular-eslint/builder": "^16.1.0",
     "@angular-eslint/eslint-plugin": "^16.0.3",
     "@angular-eslint/eslint-plugin-template": "^16.0.3",
